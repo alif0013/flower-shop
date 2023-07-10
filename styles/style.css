@@ -139,6 +139,31 @@ body {
     margin-bottom: 65px;
 }
 
-
-
 /*Our Featured Flowers style end */
+/* services section start */
+.services-container {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    background: rgba(39, 39, 39, 0.05);
+    height: 200px;
+}
+
+.service-info {
+    width: 256px;
+    text-align: center;
+    
+}
+
+.service-info img {
+    width: 70px;
+}
+
+.service-info p {
+    color: rgba(39, 39, 39, 0.80);
+    margin-top: 15px;
+}
+
+/* services section end */
