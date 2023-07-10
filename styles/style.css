@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header style start */
+.main-header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+}
+
+.header-container {
+
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+
+.banner-text {
+    width: 50%;
+    margin-top: 50px;
+}
+
+.banner-text h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 27px;
+}
+
+.banner-text p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 27px;
+}
+
+.shop-now-btn {
+    border: none;
+    padding: 12px 19px;
+    background-color: #E55473;
+    color: white;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+.banner-image {
+    width: 50%;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.banner-image img {
+    width: 350px;
+
+}
+
+/* header style end */
