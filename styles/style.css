@@ -40,6 +40,12 @@ body {
     margin-bottom: 27px;
 }
 
+.shop-now-btn:hover {
+    background-color: #b92e4d;
+    color: white;
+    cursor: pointer;
+}
+
 .shop-now-btn {
     border: none;
     padding: 12px 19px;
@@ -154,7 +160,7 @@ body {
 .service-info {
     width: 256px;
     text-align: center;
-    
+
 }
 
 .service-info img {
@@ -167,3 +173,65 @@ body {
 }
 
 /* services section end */
+/* discount section start  */
+.main-discount {
+    background-color: rgba(229, 84, 115, 0.05);
+    height: 400px;
+    margin-top: 90px;
+}
+
+.discount-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+}
+
+.discount-text {
+    width: 50%;
+    padding: 50px;
+    margin-left: 30px;
+}
+
+.discount-text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.discount-text p {
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.sign-up-btn {
+    border: none;
+    padding: 11px 21px;
+    background-color: #E55473;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-left: 210px;
+}
+
+.sign-up-btn:hover {
+    background-color: #b92e4d;
+    color: white;
+    cursor: pointer;
+}
+
+.discount-image {
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+}
+.discount-image img{
+width: 190px;
+}
+.disc-off{
+    color: #E55473;
+}
+/* discount section end  */
