@@ -326,6 +326,7 @@ body {
 .flower-color {
     color: #E55473;
 }
+
 .footer-container h1 {
     color: white;
     text-align: center;
@@ -345,5 +346,43 @@ body {
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
     margin-top: 25px;
-    
+
+}
+
+/* extra section  */
+.extra-text {
+}
+
+.extra-text h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.rose-img {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.single-rose {
+    width: 25%;
+    margin-bottom: 100px;
+}
+
+.single-rose img {
+    width: 200px;
+}
+.single-rose p {
+    font-size: 15px;
+    margin-top: 35px
+   
+}
+#rose{
+    font-size: 15px;
+    margin-top: 70px
 }
