@@ -141,7 +141,7 @@ body {
 }
 
 .services-container {
-    width: 80%;
+    width: 67%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -265,11 +265,10 @@ body {
     width: 80%;
     margin: auto;
     margin-bottom: 90px;
-
 }
 
 .subscrib-container {
-    width: 80%;
+    width: 85%;
     background-image: url("../asset/Rectangle 9.png");
     background-position: center center;
     background-repeat: no-repeat;
@@ -277,10 +276,11 @@ body {
     height: 270px;
     margin: auto;
     text-align: center;
+    margin-left: 100px;
 }
 
 .subscrib-container h1 {
-    padding: 87px 0 13px 0;
+    padding: 87px 0 10px 0;
     font-size: 30px;
     font-weight: 700;
 }
