@@ -316,3 +316,34 @@ body {
     color: white;
     cursor: pointer;
 }
+
+/* footer start  */
+.main-footer {
+    padding: 0 0 90px 0;
+    background-color: #111010;
+}
+
+.flower-color {
+    color: #E55473;
+}
+.footer-container h1 {
+    color: white;
+    text-align: center;
+    padding: 90px 0 25px 0;
+}
+
+.footer-container p {
+
+    color: rgba(255, 255, 255, 0.90);
+    font-weight: 400;
+    width: 550px;
+    text-align: center;
+    margin: auto;
+}
+
+.footer-container h6 {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    margin-top: 25px;
+    
+}
