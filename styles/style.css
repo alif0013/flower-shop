@@ -82,7 +82,7 @@ body {
 }
 
 .flower-link-all {
-    width: 80%;
+    width: 67%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -90,7 +90,7 @@ body {
 }
 
 .single-flower1 {
-    width: 26.66%;
+    width: 31.66%;
     text-align: center;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -102,7 +102,7 @@ body {
 }
 
 .single-flower2 {
-    width: 26.66%;
+    width: 31.66%;
     text-align: center;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
@@ -114,7 +114,7 @@ body {
 }
 
 .single-flower3 {
-    width: 26.66%;
+    width: 31.66%;
     text-align: center;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
@@ -126,14 +126,14 @@ body {
 }
 
 .some-flower-link {
-    width: 80%;
+    width: 67%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: 20px;
-    margin-left: 125px;
     font-size: 17px;
     font-weight: 500;
+    margin: auto;
+    padding-top: 25px;
 }
 
 .link1 {
